@@ -21,6 +21,7 @@ theme = "hyde-hyde"
     # description = "..."
     authorimage = "/img/profil.png"
     dateformat = "Nov 6, 2020"
+    description = "Java Web Developer"
 
     # sidebar, copyright & license
     #logoimage = "/img/profil.png"
@@ -50,7 +51,4 @@ theme = "hyde-hyde"
     telegram = "<username>"
     email = "denigunawan775@gmail.com"
 
-## Main Menu
-[[menu.main]]
-    name = "Java Web Developer"
-    weight = 100 
+
