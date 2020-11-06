@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "Deni Gunawan"
     title = "Title"
     # description = "..."
-    authorimage = "/img/profil.png"
+    authorimage = "/static/img/profil.png"
     dateformat = "Nov 6, 2020"
     description = "Java Web Developer"
 
