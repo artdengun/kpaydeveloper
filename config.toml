@@ -23,7 +23,7 @@ theme = "hyde-hyde"
     dateformat = "Nov 6, 2020"
 
     # sidebar, copyright & license
-    #logoimage = "/static/img/hugo.png"
+    logoimage = "/static/img/hugo.png"
     copyright = "Deni Gunawan"
     since = 2020
     # https://highlightjs.org
