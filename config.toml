@@ -19,11 +19,11 @@ theme = "hyde-hyde"
     author = "Deni Gunawan"
     title = "Title"
     description = "Java Web Developer"
-    authorimage = "/static/img/hugo.png"
+    authorimage = "img/hugo.png"
     dateformat = "Nov 6, 2020"
 
     # sidebar, copyright & license
-    logoimage = "/static/img/hugo.png"
+    logoimage = "img/hugo.png"
     copyright = "Deni Gunawan"
     since = 2020
     # https://highlightjs.org
