@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "Deni Gunawan"
     title = "Title"
     description = "Java Web Developer"
-    authorimage = "img/profil.png"
+  #  authorimage = "img/profil.png"
     dateformat = "Nov 6, 2020"
 
     # sidebar, copyright & license
