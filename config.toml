@@ -1,3 +1,56 @@
-languageCode = "en-us"
+## Basic Configuration
+baseurl = "https://example.com/"
+languageCode = "en"
+
 title = "Deni Gunawan"
-theme = "hyde"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+## Site Settings
+[params]
+    author = "Deni Gunawan"
+    title = "Title"
+    # description = "..."
+    authorimage = "/img/hugo.jpeg"
+    dateformat = "Nov 6, 2020"
+
+    # sidebar, copyright & license
+    #logoimage = "/img/hugo.jpeg"
+    copyright = "Deni Gunawan"
+    since = 2020
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "artdengun"
+    instagram = "<username>"
+    gitlab = "<username>"
+    linkedin = "<username>"
+    facebook = "<username>"
+    stackoverflow = "<username>"
+    telegram = "<username>"
+    email = "denigunawan775@gmail.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Java Web Developer"
+    weight = 100 
