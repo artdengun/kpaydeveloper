@@ -24,7 +24,7 @@ theme = "hyde-hyde"
     description = "Java Web Developer"
 
     # sidebar, copyright & license
-    #logoimage = "/img/profil.png"
+    #logoimage = "/static/img/profil.png"
     copyright = "Deni Gunawan"
     since = 2020
     # https://highlightjs.org
